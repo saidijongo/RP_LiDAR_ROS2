@@ -7,3 +7,4 @@ https://github.com/andynguyencoding/lidar_robotcar
 https://hardwaretester.com/gamepad
 
 https://github.com/simplefoc/Arduino_SimpleFOC_DRV8301_Support_Library
+https://www.diodes.com/design/support/technical-articles/selecting-the-right-mosfets-for-motor-drive-applications/
