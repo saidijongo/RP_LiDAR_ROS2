@@ -12,3 +12,8 @@ https://www.diodes.com/design/support/technical-articles/selecting-the-right-mos
 
 
 https://github.com/simplefoc/Arduino-FOC/tree/master
+https://github.com/simplefoc/Arduino-FOC
+
+
+gamepd
+https://github.com/piborg/Gamepad
